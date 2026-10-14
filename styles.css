@@ -392,3 +392,6 @@ ul { margin: 0; padding: 0; }
 @media (max-width: 760px) {
   .site-header.open .nav-links li.nav-cta-mobile { display: block; }
 }
+
+/* Founder photo */
+.founder-img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center top; }
