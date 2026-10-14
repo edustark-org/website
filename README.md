@@ -61,8 +61,8 @@ python3 -m http.server 8000
 ## Before you go live — things to update
 
 - **Contact email:** all "Book a Meeting" / contact links use
-  `mailto:info@edustark.com`. Change this to your real address (search the files
-  for `info@edustark.com`) or swap in a booking link (Calendly, Wix Bookings, etc.).
+  `mailto:universityrelations@edustark.com`. Change this to your real address (search the files
+  for `universityrelations@edustark.com`) or swap in a booking link (Calendly, Wix Bookings, etc.).
 - **LinkedIn / socials:** the footer LinkedIn icon links to `#` — replace with your
   real profile URL.
 - **Photos:** the design is image-light by intent so it loads fast and needs no
